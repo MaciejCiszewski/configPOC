@@ -1,0 +1,6 @@
+---
+server:
+  port:  8043
+  connectors:
+    - path: /path3
+      resource: resource3

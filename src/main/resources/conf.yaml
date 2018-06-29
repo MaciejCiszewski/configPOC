@@ -1,0 +1,10 @@
+---
+server:
+  host:  server.gmail.com
+  port:  8080
+  domain: .gmail.com
+  connectors:
+    - path: /path
+      resource: resource1
+    - path: /path2
+      resource: resource2

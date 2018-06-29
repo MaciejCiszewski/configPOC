@@ -1,0 +1,5 @@
+---
+server:
+  port:  8043
+  connectors:
+    - path: /path3
