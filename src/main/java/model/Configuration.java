@@ -11,10 +11,6 @@ public class Configuration {
         return server;
     }
 
-    public void setServer(Server server) {
-        this.server = server;
-    }
-
     @Override
     public String toString() {
         return "Configuration{" +
